@@ -1,0 +1,7 @@
+{
+  "name": "brief-writer-demo",
+  "version": "1.0.0",
+  "description": "A Claude-powered marketing brief writer agent. Portfolio piece.",
+  "private": true,
+  "type": "module"
+}
