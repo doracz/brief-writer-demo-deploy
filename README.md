@@ -74,5 +74,5 @@ Open http://localhost:3000.
 
 ## About
 
-Built by [Dora Czerna](https://github.com/doracz) as a portfolio piece.
+Built by [Dora Czerna] (https://www.doracee.com/) as a portfolio piece.
 Background in senior product design across regulated industries, with hands-on prompt engineering and earlier finance/ACCA experience.
