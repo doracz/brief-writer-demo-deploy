@@ -34,9 +34,9 @@ brief writer the first node in a workflow rather than a one-off tool.
   audience, reasoning method (chain-of-thought), output contract (JSON schema),
   guardrails, and two few-shot examples.
 
-Model: Claude Sonnet 4.6. Tested both Opus and Sonnet on the task; Sonnet's
-outputs were indistinguishable for this use case and significantly cheaper at
-scale.
+Model: Claude Sonnet 4.6. Sonnet is well-suited to structured generation tasks
+like this; Opus would offer marginal quality gains at significantly higher
+cost.
 
 ## Run locally
 
@@ -74,5 +74,5 @@ Open http://localhost:3000.
 
 ## About
 
-Built by [Dora Czerna](https://github.com/doracz) as a portfolio piece. Background in senior product design across regulated
-industries, with hands-on prompt engineering and earlier finance/ACCA experience.
+Built by [Dora Czerna](https://github.com/doracz) as a portfolio piece.
+Background in senior product design across regulated industries, with hands-on prompt engineering and earlier finance/ACCA experience.
